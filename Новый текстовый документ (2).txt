@@ -1,0 +1,5 @@
+https://yandex.ru/news/rubric/politics?page=2
+&prev-reqid=1625062498146808-1825868788115931688000114-production-news-app-host-77-NEWS-NEWS_RUBRIC
+&ajax=1
+&neo_parent_id=1625062491886365-222919966239364817200434-production-news-app-host-66-NEWS-NEWS_RUBRIC
+&autoload=%7B%22totalColumns%22%3A38%2C%22advertCardCount%22%3A7%7D

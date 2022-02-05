@@ -1,0 +1,4 @@
+git+https://github.com/JustAnotherArchivist/snscrape.git
+loguru
+sqlalchemy
+alembic

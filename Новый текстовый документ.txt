@@ -1,0 +1,3 @@
+риа новости div class="article__title"
+рбк class article__header__title-in js-slide-title
+взгляд.ру h1 a href
